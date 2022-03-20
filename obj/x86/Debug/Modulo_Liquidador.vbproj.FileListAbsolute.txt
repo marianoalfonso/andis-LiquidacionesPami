@@ -1,0 +1,112 @@
+C:\Users\Mariano\AppData\Local\Temporary Projects\Modulo_Liquidador\bin\Debug\Modulo_Liquidador.exe
+C:\Users\Mariano\AppData\Local\Temporary Projects\Modulo_Liquidador\bin\Debug\Modulo_Liquidador.pdb
+C:\Users\Mariano\AppData\Local\Temporary Projects\Modulo_Liquidador\bin\Debug\Modulo_Liquidador.xml
+C:\Users\Mariano\AppData\Local\Temporary Projects\Modulo_Liquidador\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mariano\AppData\Local\Temporary Projects\Modulo_Liquidador\obj\x86\Debug\Modulo_Liquidador.frmImportacionFacturacion.resources
+C:\Users\Mariano\AppData\Local\Temporary Projects\Modulo_Liquidador\obj\x86\Debug\Modulo_Liquidador.Resources.resources
+C:\Users\Mariano\AppData\Local\Temporary Projects\Modulo_Liquidador\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mariano\AppData\Local\Temporary Projects\Modulo_Liquidador\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mariano\AppData\Local\Temporary Projects\Modulo_Liquidador\obj\x86\Debug\Modulo_Liquidador.exe
+C:\Users\Mariano\AppData\Local\Temporary Projects\Modulo_Liquidador\obj\x86\Debug\Modulo_Liquidador.xml
+C:\Users\Mariano\AppData\Local\Temporary Projects\Modulo_Liquidador\obj\x86\Debug\Modulo_Liquidador.pdb
+C:\Desarrollos\Proyecto Liquidaciones\Modulo Liquidador\Modulo_Liquidador\obj\x86\Debug\Modulo_Liquidador.exe
+C:\Desarrollos\Proyecto Liquidaciones\Modulo Liquidador\Modulo_Liquidador\obj\x86\Debug\Modulo_Liquidador.xml
+C:\Desarrollos\Proyecto Liquidaciones\Modulo Liquidador\Modulo_Liquidador\obj\x86\Debug\Modulo_Liquidador.pdb
+C:\Desarrollos\Proyecto Liquidaciones\Modulo_Liquidador\obj\x86\Debug\Modulo_Liquidador.exe
+C:\Desarrollos\Proyecto Liquidaciones\Modulo_Liquidador\obj\x86\Debug\Modulo_Liquidador.xml
+C:\Desarrollos\Proyecto Liquidaciones\Modulo_Liquidador\obj\x86\Debug\Modulo_Liquidador.pdb
+C:\Desarrollos\Proyecto Liquidaciones\Modulo_Liquidador\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Desarrollos\Proyecto Liquidaciones\Modulo_Liquidador\obj\x86\Debug\Modulo_Liquidador.frmImportacionFacturacion.resources
+C:\Desarrollos\Proyecto Liquidaciones\Modulo_Liquidador\obj\x86\Debug\Modulo_Liquidador.Resources.resources
+C:\Desarrollos\Proyecto Liquidaciones\Modulo_Liquidador\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Desarrollos\Proyecto Liquidaciones\Modulo_Liquidador\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Desarrollos\Proyecto Liquidaciones\Modulo_Liquidador\obj\x86\Debug\Modulo_Liquidador.Testeos.resources
+C:\Desarrollos\Proyecto Liquidaciones\Modulo_Liquidador\bin\Debug\Modulo_Liquidador.exe
+C:\Desarrollos\Proyecto Liquidaciones\Modulo_Liquidador\bin\Debug\Modulo_Liquidador.pdb
+C:\Desarrollos\Proyecto Liquidaciones\Modulo_Liquidador\bin\Debug\Modulo_Liquidador.xml
+C:\Desarrollos\Proyecto Liquidaciones\Modulo_Liquidador\bin\Debug\Modulo_Liquidador.exe.config
+C:\Desarrollos\Proyecto Liquidaciones\Modulo_Liquidador\obj\x86\Debug\Modulo_Liquidador.Login.resources
+C:\Desarrollos\Proyecto Liquidaciones\Modulo_Liquidador\obj\x86\Debug\Modulo_Liquidador.frmDefault.resources
+C:\Desarrollos\Proyecto Liquidaciones\Modulo_Liquidador\obj\x86\Debug\Modulo_Liquidador.frmImportacion.resources
+C:\Desarrollos\Proyecto Liquidaciones\Modulo_Liquidador\obj\x86\Debug\Modulo_Liquidador.frmLiquidacion.resources
+C:\Desarrollos\Modulo_Liquidador\bin\Debug\Modulo_Liquidador.exe.config
+C:\Desarrollos\Modulo_Liquidador\obj\x86\Debug\Modulo_Liquidador.exe
+C:\Desarrollos\Modulo_Liquidador\obj\x86\Debug\Modulo_Liquidador.xml
+C:\Desarrollos\Modulo_Liquidador\obj\x86\Debug\Modulo_Liquidador.pdb
+C:\Desarrollos\Modulo_Liquidador\bin\Debug\Modulo_Liquidador.exe
+C:\Desarrollos\Modulo_Liquidador\bin\Debug\Modulo_Liquidador.pdb
+C:\Desarrollos\Modulo_Liquidador\bin\Debug\Modulo_Liquidador.xml
+C:\Desarrollos\Modulo_Liquidador\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Desarrollos\Modulo_Liquidador\obj\x86\Debug\Modulo_Liquidador.frmDefault.resources
+C:\Desarrollos\Modulo_Liquidador\obj\x86\Debug\Modulo_Liquidador.frmImportacion.resources
+C:\Desarrollos\Modulo_Liquidador\obj\x86\Debug\Modulo_Liquidador.frmLiquidacion.resources
+C:\Desarrollos\Modulo_Liquidador\obj\x86\Debug\Modulo_Liquidador.frmImportacionFacturacion.resources
+C:\Desarrollos\Modulo_Liquidador\obj\x86\Debug\Modulo_Liquidador.Login.resources
+C:\Desarrollos\Modulo_Liquidador\obj\x86\Debug\Modulo_Liquidador.Resources.resources
+C:\Desarrollos\Modulo_Liquidador\obj\x86\Debug\Modulo_Liquidador.Testeos.resources
+C:\Desarrollos\Modulo_Liquidador\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Desarrollos\Modulo_Liquidador\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Desarrollos\Proyecto Liquidaciones\Modulo_Liquidador\obj\x86\Debug\Modulo_Liquidador.frmReporte1.resources
+C:\Desarrollos\Proyecto Liquidaciones\Modulo_Liquidador\obj\x86\Debug\RdlCompile.cache
+C:\Desarrollos\Proyecto Liquidaciones\Modulo_Liquidador\obj\x86\Debug\RdlCompile.compiled
+C:\Desarrollos\Proyecto Liquidaciones\Modulo_Liquidador\obj\x86\Debug\Modulo_Liquidador.frmReporte2.resources
+C:\Desarrollos\Proyecto Liquidaciones\Modulo_Liquidador\obj\x86\Debug\Modulo_Liquidador.frmAnalizarAutorizacion.resources
+C:\Desarrollos\Modulo_Liquidador\obj\x86\Debug\Modulo_Liquidador.frmAnalizarAutorizacion.resources
+C:\Desarrollos\Modulo_Liquidador\obj\x86\Debug\Modulo_Liquidador.frmReporte1.resources
+C:\Desarrollos\Modulo_Liquidador\obj\x86\Debug\RdlCompile.cache
+C:\Desarrollos\Modulo_Liquidador\obj\x86\Debug\RdlCompile.compiled
+C:\Desarrollos\Proyecto Liquidaciones\Modulo_Liquidador\obj\x86\Debug\Modulo_Liquidador.frmReporte3.resources
+C:\Desarrollos\Modulo_Liquidador\obj\x86\Debug\Modulo_Liquidador.frmReporte2.resources
+C:\Desarrollos\Modulo_Liquidador\obj\x86\Debug\Modulo_Liquidador.frmReporte3.resources
+C:\Desarrollos\Modulo_Liquidador\bin\Debug\Modulo_Liquidador.exe.manifest
+C:\Desarrollos\Modulo_Liquidador\bin\Debug\Modulo_Liquidador.application
+C:\Desarrollos\Modulo_Liquidador\obj\x86\Debug\Modulo_Liquidador.exe.manifest
+C:\Desarrollos\Modulo_Liquidador\obj\x86\Debug\Modulo_Liquidador.application
+C:\Desarrollos\Modulo_Liquidador\obj\x86\Debug\Modulo_Liquidador.frmEliminarLiquidacion.resources
+C:\Desarrollos\Modulo_Liquidador\obj\x86\Debug\Modulo_Liquidador.frmReporte4.resources
+C:\Desarrollos\Modulo_Liquidador\obj\x86\Debug\Modulo_Liquidador.frmAboutBox.resources
+C:\Desarrollos\Modulo_Liquidador_PAMI\bin\Debug\Modulo_Liquidador.exe.config
+C:\Desarrollos\Modulo_Liquidador_PAMI\obj\x86\Debug\Modulo_Liquidador.exe
+C:\Desarrollos\Modulo_Liquidador_PAMI\obj\x86\Debug\Modulo_Liquidador.xml
+C:\Desarrollos\Modulo_Liquidador_PAMI\obj\x86\Debug\Modulo_Liquidador.pdb
+C:\Desarrollos\Modulo_Liquidador_PAMI\bin\Debug\Modulo_Liquidador.exe.manifest
+C:\Desarrollos\Modulo_Liquidador_PAMI\bin\Debug\Modulo_Liquidador.application
+C:\Desarrollos\Modulo_Liquidador_PAMI\bin\Debug\Modulo_Liquidador.exe
+C:\Desarrollos\Modulo_Liquidador_PAMI\bin\Debug\Modulo_Liquidador.pdb
+C:\Desarrollos\Modulo_Liquidador_PAMI\bin\Debug\Modulo_Liquidador.xml
+C:\Desarrollos\Modulo_Liquidador_PAMI\obj\x86\Debug\Modulo_Liquidador.frmAboutBox.resources
+C:\Desarrollos\Modulo_Liquidador_PAMI\obj\x86\Debug\Modulo_Liquidador.frmAnalizarAutorizacion.resources
+C:\Desarrollos\Modulo_Liquidador_PAMI\obj\x86\Debug\Modulo_Liquidador.frmDefault.resources
+C:\Desarrollos\Modulo_Liquidador_PAMI\obj\x86\Debug\Modulo_Liquidador.frmEliminarLiquidacion.resources
+C:\Desarrollos\Modulo_Liquidador_PAMI\obj\x86\Debug\Modulo_Liquidador.frmImportacion.resources
+C:\Desarrollos\Modulo_Liquidador_PAMI\obj\x86\Debug\Modulo_Liquidador.frmLiquidacion.resources
+C:\Desarrollos\Modulo_Liquidador_PAMI\obj\x86\Debug\Modulo_Liquidador.frmImportacionFacturacion.resources
+C:\Desarrollos\Modulo_Liquidador_PAMI\obj\x86\Debug\Modulo_Liquidador.Login.resources
+C:\Desarrollos\Modulo_Liquidador_PAMI\obj\x86\Debug\Modulo_Liquidador.Resources.resources
+C:\Desarrollos\Modulo_Liquidador_PAMI\obj\x86\Debug\Modulo_Liquidador.Testeos.resources
+C:\Desarrollos\Modulo_Liquidador_PAMI\obj\x86\Debug\Modulo_Liquidador.vbproj.GenerateResource.Cache
+C:\Desarrollos\Modulo_Liquidador_PAMI\obj\x86\Debug\Modulo_Liquidador.exe.manifest
+C:\Desarrollos\Modulo_Liquidador_PAMI\obj\x86\Debug\Modulo_Liquidador.application
+C:\BGInfo\BgConfig\Desarrollos\Modulo_Liquidador_PAMI\bin\Debug\Modulo_Liquidador.exe.config
+C:\BGInfo\BgConfig\Desarrollos\Modulo_Liquidador_PAMI\obj\x86\Debug\Modulo_Liquidador.exe
+C:\BGInfo\BgConfig\Desarrollos\Modulo_Liquidador_PAMI\obj\x86\Debug\Modulo_Liquidador.xml
+C:\BGInfo\BgConfig\Desarrollos\Modulo_Liquidador_PAMI\obj\x86\Debug\Modulo_Liquidador.pdb
+C:\BGInfo\BgConfig\Desarrollos\Modulo_Liquidador_PAMI\bin\Debug\Modulo_Liquidador.exe.manifest
+C:\BGInfo\BgConfig\Desarrollos\Modulo_Liquidador_PAMI\bin\Debug\Modulo_Liquidador.application
+C:\BGInfo\BgConfig\Desarrollos\Modulo_Liquidador_PAMI\bin\Debug\Modulo_Liquidador.exe
+C:\BGInfo\BgConfig\Desarrollos\Modulo_Liquidador_PAMI\bin\Debug\Modulo_Liquidador.pdb
+C:\BGInfo\BgConfig\Desarrollos\Modulo_Liquidador_PAMI\bin\Debug\Modulo_Liquidador.xml
+C:\BGInfo\BgConfig\Desarrollos\Modulo_Liquidador_PAMI\obj\x86\Debug\Modulo_Liquidador.vbprojResolveAssemblyReference.cache
+C:\BGInfo\BgConfig\Desarrollos\Modulo_Liquidador_PAMI\obj\x86\Debug\Modulo_Liquidador.frmAboutBox.resources
+C:\BGInfo\BgConfig\Desarrollos\Modulo_Liquidador_PAMI\obj\x86\Debug\Modulo_Liquidador.frmAnalizarAutorizacion.resources
+C:\BGInfo\BgConfig\Desarrollos\Modulo_Liquidador_PAMI\obj\x86\Debug\Modulo_Liquidador.frmDefault.resources
+C:\BGInfo\BgConfig\Desarrollos\Modulo_Liquidador_PAMI\obj\x86\Debug\Modulo_Liquidador.frmEliminarLiquidacion.resources
+C:\BGInfo\BgConfig\Desarrollos\Modulo_Liquidador_PAMI\obj\x86\Debug\Modulo_Liquidador.frmImportacion.resources
+C:\BGInfo\BgConfig\Desarrollos\Modulo_Liquidador_PAMI\obj\x86\Debug\Modulo_Liquidador.frmLiquidacion.resources
+C:\BGInfo\BgConfig\Desarrollos\Modulo_Liquidador_PAMI\obj\x86\Debug\Modulo_Liquidador.frmImportacionFacturacion.resources
+C:\BGInfo\BgConfig\Desarrollos\Modulo_Liquidador_PAMI\obj\x86\Debug\Modulo_Liquidador.Login.resources
+C:\BGInfo\BgConfig\Desarrollos\Modulo_Liquidador_PAMI\obj\x86\Debug\Modulo_Liquidador.Resources.resources
+C:\BGInfo\BgConfig\Desarrollos\Modulo_Liquidador_PAMI\obj\x86\Debug\Modulo_Liquidador.Testeos.resources
+C:\BGInfo\BgConfig\Desarrollos\Modulo_Liquidador_PAMI\obj\x86\Debug\Modulo_Liquidador.vbproj.GenerateResource.Cache
+C:\BGInfo\BgConfig\Desarrollos\Modulo_Liquidador_PAMI\obj\x86\Debug\Modulo_Liquidador.exe.manifest
+C:\BGInfo\BgConfig\Desarrollos\Modulo_Liquidador_PAMI\obj\x86\Debug\Modulo_Liquidador.application

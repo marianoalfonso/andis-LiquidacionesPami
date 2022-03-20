@@ -1,0 +1,232 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Modulo_Liquidador
+</name>
+</assembly>
+<members>
+<member name="P:Modulo_Liquidador.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Modulo_Liquidador.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Modulo_Liquidador.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet1.SP_SELECCIONAR_ANEXOLIQUIDACIONESDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet1.SP_SELECCIONAR_ANEXOLIQUIDACIONESRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet1.SP_SELECCIONAR_ANEXOLIQUIDACIONESRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet1TableAdapters.SP_SELECCIONAR_ANEXOLIQUIDACIONESTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet1TableAdapters.TableAdapterManager.UpdateAll(Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet.SP_SELECCIONAR_ANEXOLIQUIDACIONESDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet.SP_SELECCIONAR_ANEXOLIQUIDACIONESRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet.SP_SELECCIONAR_ANEXOLIQUIDACIONESRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Modulo_Liquidador.LIQUIDACIONES_PAMIDataSetTableAdapters.SP_SELECCIONAR_ANEXOLIQUIDACIONESTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Modulo_Liquidador.LIQUIDACIONES_PAMIDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Modulo_Liquidador.LIQUIDACIONES_PAMIDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Modulo_Liquidador.LIQUIDACIONES_PAMIDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Modulo_Liquidador.LIQUIDACIONES_PAMIDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Modulo_Liquidador.LIQUIDACIONES_PAMIDataSetTableAdapters.TableAdapterManager.UpdateAll(Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Modulo_Liquidador.LIQUIDACIONES_PAMIDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Modulo_Liquidador.LIQUIDACIONES_PAMIDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Modulo_Liquidador.LIQUIDACIONES_PAMIDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet_ANEXOLIQUIDACIONES_BURNS.SP_SELECCIONAR_ANEXOLIQUIDACIONESDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet_ANEXOLIQUIDACIONES_BURNS.SP_SELECCIONAR_ANEXOLIQUIDACIONESRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet_ANEXOLIQUIDACIONES_BURNS.SP_SELECCIONAR_ANEXOLIQUIDACIONESRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet_ANEXOLIQUIDACIONES_BURNS">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet_ANEXOLIQUIDACIONES_BURNSTableAdapters.SP_SELECCIONAR_ANEXOLIQUIDACIONESTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet_ANEXOLIQUIDACIONES_BURNSTableAdapters.TableAdapterManager.UpdateUpdatedRows(Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet_ANEXOLIQUIDACIONES_BURNS,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet_ANEXOLIQUIDACIONES_BURNSTableAdapters.TableAdapterManager.UpdateInsertedRows(Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet_ANEXOLIQUIDACIONES_BURNS,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet_ANEXOLIQUIDACIONES_BURNSTableAdapters.TableAdapterManager.UpdateDeletedRows(Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet_ANEXOLIQUIDACIONES_BURNS,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet_ANEXOLIQUIDACIONES_BURNSTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet_ANEXOLIQUIDACIONES_BURNSTableAdapters.TableAdapterManager.UpdateAll(Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet_ANEXOLIQUIDACIONES_BURNS)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet_ANEXOLIQUIDACIONES_BURNSTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet_ANEXOLIQUIDACIONES_BURNSTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet_ANEXOLIQUIDACIONES_BURNSTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet2.SP_OBTENER_DETALLE_DEBITODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet2.SP_OBTENER_DETALLE_DEBITORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet2.SP_OBTENER_DETALLE_DEBITORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet2">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet2TableAdapters.SP_OBTENER_DETALLE_DEBITOTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet2TableAdapters.TableAdapterManager.UpdateAll(Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet2)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Modulo_Liquidador.LIQUIDACIONES_PAMIDataSet2TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
